@@ -1,6 +1,6 @@
 
 ---
-title: '¡Que se repita!: una mirada sistémica a las juntas sociales'
+title: '¡Que se repita! una mirada sistémica a las juntas sociales'
 description: 'Reflexiones sobre juntas significativas y su conexión con la teoría general de Sistemas'
 pubDate: 'Jun 16 2026'
 heroImage: '../../assets/magic.webp'
@@ -8,6 +8,7 @@ heroImage: '../../assets/magic.webp'
 
 Reflexiones sobre juntas significativas y su conexión con la teoría general de Sistemas
 
+por *Fabo*
 ---
 
 Generalmente terminamos jugando Magic, una mesa llena de cartas, dados, un celular con el contador de vidas, tensión, comida y buena vida. A veces, su bebida, su cerveza, un humo cualquiera bajo comentarios sobre cartas, experiencias, bromas.
