@@ -3,7 +3,7 @@
 title: '¡Que se repita!: una mirada sistémica a las juntas sociales'
 description: 'Reflexiones sobre juntas significativas y su conexión con la teoría general de Sistemas'
 pubDate: 'Jun 16 2026'
-heroImage: '../../assets/blog-placeholder-4.png'
+heroImage: '../../assets/magic.webp'
 ---
 
 Reflexiones sobre juntas significativas y su conexión con la teoría general de Sistemas
