@@ -7,7 +7,7 @@ heroImage: '../../assets/ra-eem.webp'
 
 > Sobre cómo creé un reporte llevado a mi psicologa con mucha matemática dura y estadísticas enfocadas en un cuestionario fenomenológico.
 
-> #### No es una herramienta diagnóstica ni terapéutica.
+> **No es una herramienta diagnóstica ni terapéutica.**
 
 > ***Promesa**: no usaré matemáticas para explicar esto
 
@@ -23,7 +23,7 @@ Imagina que respondes un cuestionario largo con preguntas sobre tu calidad emoci
 
 Hablar del proyecto es mejor nombrarlo por lo que hace que por como se llama, hablo de mi proyecto **RA-EEM**
 
-## Entendiendo al Relational Allostatic Emergent Energy Model
+### Entendiendo al Relational Allostatic Emergent Energy Model
 
 Quería apoyar mi trabajo psicológico y llevar estos resultados a mi psicóloga. La idea era entender el vínculo que he llevado con algunos de mis familiares para entender mis propios patrones. 
 
@@ -38,13 +38,13 @@ Prometo no usar matematicas para explicar esto ni explicar porqué use tangente 
 
 El resultado de todo esto: una lista de números marcianos. Se lo pasas con una estructura a la ia generativa y este te describe tu relación como si fuera tu mejor amigo analítico.
 
-## Resultados
+### Resultados
 
 No ha sido probado por muchas personas, pero de mi gente más cercana aseguran que la interpretación de resultados de la ia es bastante precisa, espeja bien el vínculo pero lo sienten (incluyéndome) como una foto del vínculo. Creo que cumplió su objetivo y para ser una iteración es suficiente.
 
 > Si algo aprendí construyendo RA-EEM, es que entender un vínculo no siempre requiere respuestas nuevas. A veces basta con mirar el mismo vínculo desde otro lugar.
 
-## Actualidad
+### Actualidad
 
 Hoy RA-EEM está en pausa. Cumplió el objetivo inicial: ayudarme a observar algunos patrones y llevar conversaciones más concretas a terapia. El siguiente paso sería validarlo con más personas y, ojalá, con profesionales que trabajen entre la psicología, los sistemas complejos y la investigación.
 
