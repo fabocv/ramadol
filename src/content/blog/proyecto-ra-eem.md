@@ -5,7 +5,7 @@ pubDate: 'May 28 2026'
 heroImage: '../../assets/ra-eem.webp'
 ---
 
-Sobre cómo creé un reporte llevado a mi psicologa con mucha matemática dura y estadísticas enfocadas en un cuestionario fenomenológico.
+Sobre cómo creé un reporte llevado a mi psicologa con mucha matemática dura y estadísticas canalizadas por un cuestionario fenomenológico vincular.
 
 por Fabo.
 
@@ -13,7 +13,7 @@ por Fabo.
 
 > **No es una herramienta diagnóstica ni terapéutica.**
 
-> ***Promesa**: no usaré matemáticas para explicar esto
+***Promesa**: no usaré matemáticas para explicar esto
 
 - ¿Modela personas? No.
 - ¿Busca controlar comportamientos? Tampoco.

@@ -45,4 +45,4 @@ Pensandolo integradamente, quizás por eso algunas juntas siguen existiendo dura
 
 A veces cambian las cartas, las conversaciones, las bebidas o los horarios. Lo que permanece es el deseo compartido de volver a reunirse.
 
-> Comcluyo que pertenecer a un grupo no consiste en ocupar siempre una silla, sino en seguir formando parte de aquello que se repite.
+> Concluyo que pertenecer a un grupo no consiste en ocupar siempre una silla, sino en seguir formando parte de aquello que se repite.
