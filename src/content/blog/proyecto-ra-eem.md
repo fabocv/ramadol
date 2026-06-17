@@ -48,6 +48,10 @@ No ha sido probado por muchas personas, pero de mi gente más cercana aseguran q
 
 Hoy RA-EEM está en pausa. Cumplió el objetivo inicial: ayudarme a observar algunos patrones y llevar conversaciones más concretas a terapia. El siguiente paso sería validarlo con más personas y, ojalá, con profesionales que trabajen entre la psicología, los sistemas complejos y la investigación.
 
+> link del proyecto [acá](https://github.com/fabocv/RA-EEM)
+
+> link de la web (contáctame si quieres probar la herramienta)
+
 Gracias por leer hasta el final!!
 
 Fabo.

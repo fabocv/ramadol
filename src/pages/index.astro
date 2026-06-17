@@ -2,8 +2,10 @@
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
+import { Image } from 'astro:assets';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 import 'katex/dist/katex.min.css';
+import ramadol from "../assets/ramadol.png";
 ---
 
 <!doctype html>
@@ -21,7 +23,7 @@ import 'katex/dist/katex.min.css';
 				Dosis diaria de cybercuriosidad con filosofía masticable
 			</h3>
 
-			<img src="/ramadol/src/assets/ramadol.png" alt="ramadol 500mg">
+			<Image src={ramadol} alt="Ramadol 500 mg." />
 			<br>
 		</main>
 		<Footer />
