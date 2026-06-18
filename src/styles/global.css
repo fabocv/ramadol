@@ -19,6 +19,11 @@
     0 2px 6px rgba(var(--gray), 15%), 0 8px 24px rgba(0, 0, 0, 45%),
     0 16px 32px rgba(0, 0, 0, 45%);
 }
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
 body, header {
   font-family: var(--font-atkinson);
   margin: 0;
@@ -150,19 +155,6 @@ hr {
   nav a {
     font-size: 0.95rem;
   }
-}
-
-.prose,
-article {
-  width: 100%;
-  overflow-x: hidden;
-}
-
-.prose img,
-article img {
-  display: block;
-  max-width: 100%;
-  height: auto;
 }
 
 .sr-only {

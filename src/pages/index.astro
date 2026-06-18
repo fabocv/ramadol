@@ -15,18 +15,46 @@ import ramadol from "../assets/ramadol.png";
 		<script data-goatcounter="https://ramadol.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 	</head>
+	<style>
+		main {
+			display: flex;
+			justify-content: center;
+		}
+
+		.content {
+			width: 100%;
+			max-width: 720px;
+			padding: 1rem;
+			box-sizing: border-box;
+
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			text-align: center;
+		}
+		@media (max-width: 720px) {
+			h4 {
+				word-break:keep-all;
+				padding-right: 6%;
+			}
+		}
+
+	</style>
 	<body>
 		<Header />
 		<main>
-			
-			<h1>Ramadol 500mg</h1>
-			<p>No te vayas por las ramaaaas 🪾</p>
-			<h3>
-				Dosis diaria de cybercuriosidad con filosofía masticable
-			</h3>
+			<div class="content">
+				<h1>Ramadol 500mg</h1>
+				<p>No te vayas por las ramaaaas 🪾</p>
+				<h4>
+					Dosis diaria de cybercuriosidad <br> con filosofía masticable
+				</h4>
 
-			<Image src={ramadol} alt="Ramadol 500 mg." />
-			<br>
+				<Image src={ramadol} alt="Ramadol 500 mg."
+					width={280}
+				/>
+				<br>
+			</div>
 		</main>
 		<Footer />
 	</body>
