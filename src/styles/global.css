@@ -31,17 +31,16 @@ body, header {
   word-wrap: break-word;
   overflow-wrap: break-word;
   color: rgb(var(--gray-dark));
-  font-size: 20px;
+  font-size: 18px;
   line-height: 1.7;
 }
 html {
   background-color: rgb(var(--bg));
 }
 main {
-  width: 720px;
-  max-width: calc(100% - 2em);
-  margin: auto;
-  padding: 3em 1em;
+  width: min(720px, 100%);
+  margin: 0 auto;
+  padding: 2rem 1.25rem;
 }
 h1,
 h2,
@@ -54,13 +53,15 @@ h6 {
   line-height: 1.2;
 }
 h1 {
-  font-size: 3.052em;
+  font-size: clamp(2.2rem, 7vw, 3.2rem);
 }
+
 h2 {
-  font-size: 2.441em;
+  font-size: clamp(1.8rem, 5vw, 2.4rem);
 }
+
 h3 {
-  font-size: 1.953em;
+  font-size: clamp(1.4rem, 4vw, 1.9rem);
 }
 h4 {
   font-size: 1.563em;
@@ -134,12 +135,36 @@ hr {
 }
 @media (max-width: 720px) {
   body {
-    font-size: 18px;
+    font-size: 16px;
   }
   main {
-    padding: 1em;
+    padding: 1rem;
+  }
+  nav {
+    display: flex;
+    justify-content: center;
+    gap: 1.25rem;
+    flex-wrap: wrap;
+  }
+
+  nav a {
+    font-size: 0.95rem;
   }
 }
+
+.prose,
+article {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.prose img,
+article img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
 .sr-only {
   border: 0;
   padding: 0;

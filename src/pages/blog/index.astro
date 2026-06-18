@@ -20,7 +20,8 @@ const posts = (await getCollection('blog')).sort(
         async src="//gc.zgo.at/count.js"></script>
 		<style>
 			main {
-				width: 960px;
+				width: min(720px, 100%);
+				margin: 0 auto;
 			}
 			ul {
 				display: flex;
@@ -72,6 +73,9 @@ const posts = (await getCollection('blog')).sort(
 				box-shadow: var(--box-shadow);
 			}
 			@media (max-width: 720px) {
+				main {
+					width: 90%;
+				}
 				ul {
 					gap: 0.5em;
 				}
