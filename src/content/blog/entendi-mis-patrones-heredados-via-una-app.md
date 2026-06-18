@@ -1,7 +1,7 @@
 ---
 title: 'Entendí mis patrones heredados bajo una app de simulación vincular'
 description: 'Aplicación de un simulador bajo un modelo de un cuestionario psicoemocional y vincular'
-pubDate: 'May 17 2026'
+pubDate: 'Jun 16 2026'
 heroImage: '../../assets/raeem_simulacion.webp'
 ---
 
