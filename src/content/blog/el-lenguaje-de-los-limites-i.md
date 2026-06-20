@@ -1,11 +1,11 @@
 ---
-title: '[update] ¿Qué hay antes de un no? El lenguaje de los límites parte I'
+title: '¿Qué hay antes de un no? El lenguaje de los límites parte I [revisado]'
 description: 'Análisis breve sobre cómo se originan los límites, decisiones y observaciones, parte uno.'
 pubDate: 'Jun 18 2026'
 heroImage: '../../assets/limite1.webp'
 ---
 
-*revisado el 20 de Junio de 2026.*
+*Revisado el 20 de Junio de 2026.*
 
 por *Fabo*
 
@@ -15,7 +15,7 @@ Te pondré en este escenario: La típica del cigarro, alguien de un grupo de ami
 
 > ¿Acepto probar esto / acepto esta nueva experiencia? 
 
-Experimentas tensión evidente, hay una comunicación interna con tus marcos inculcados, tus valores, tu ambiente previo, criterios, salud, miedos, tu vivencia previa, haciéndola chocar con lo eventual, la experiencia de fumar grupalmente. **Aceptas**, fumas, *tociste*, rotaste el cigarro... Ocurre algo en ese momento: entre risas o silencios de introspección se generó una nueva experiencia junto con una nueva sintonía y distensiones en cadenas entre tu y los cabros: **La comunidad se siente agradable.**
+Experimentas tensión evidente, hay una comunicación interna con tus marcos inculcados, tus valores, tu ambiente previo, criterios, salud, miedos, tu vivencia previa, haciéndola chocar con lo eventual, la experiencia de fumar grupalmente. **Aceptas**, fumas, *tociste*, rotaste el cigarro... Ocurre algo en ese momento: entre risas o silencios de introspección se generó una nueva experiencia junto con una nueva sintonía y distensiones entre tu y los cabros: **La comunidad se siente agradable.**
 
 - Tócele, amigo tócele!! 🚬🗿 \* risas y sinergia grupal\*
 
