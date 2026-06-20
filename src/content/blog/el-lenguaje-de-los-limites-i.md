@@ -1,69 +1,68 @@
 ---
-title: 'Qué hay antes de un no? El lenguaje de los límites parte I'
-description: 'Análisis breve sobre cómo se originan los limites, desiciones y observaciones, parte uno.'
+title: '¿Qué hay antes de un no? El lenguaje de los límites parte I'
+description: 'Análisis breve sobre cómo se originan los límites, decisiones y observaciones, parte uno.'
 pubDate: 'Jun 18 2026'
 heroImage: '../../assets/limite1.webp'
 ---
 
-¿Su spanish? ~Invitaciones tabacaleras tomo IV; Capítulo: mezclas exóticas
+# ¿Qué hay antes de un no? El lenguaje de los límites parte I
+
+Los humos conectan el mundo terrenal con el celestial, como también puede conectar unos con otros. ~Fabo
+
+*revisado el 20 de Junio de 2026.*
 
 por *Fabo*
 
 ---
 
-La típica del cigarro, alguien te ofrece uno recién hecho con distintos pastos. Eres joven y no has incursionado en esas experiencias, te surge la pregunta esencial:
+Te pondré en este escenario: La típica del cigarro, alguien de un grupo de amigos te ofrece uno recién hecho con uno o varios pastos secos, tienes pulmones casi vírgenes y te surge la pregunta consecuente:
 
-> ¿Acepto probar esta nueva sustancia, esta nueva experiencia?
+> ¿Acepto probar esto / acepto esta nueva experiencia? 
 
-Pregunta que sacude varios límites conscientes, ética, marcos de seguridad y criterios. La respuesta dependerá de cómo estén configurados tus límites personales y de cuánta apertura exista para modificarlos. **Aceptas**. *Fumas*. ~No te gustó~, pero hiciste 'amigos' vinculados al mundo de los humos... empiezas a experimentar un lenguaje corporal incómodo, emociones reprimidas, posibles miedos de abandono, etc. a su vez, se tejen nuevos límites de observación y del mundo que comienzan a  flexibilizarse y expandirse.
+Experimentas tensión evidente, hay una comunicación interna con tus marcos inculcados, tus valores, tu ambiente previo, criterios, salud, miedos, tu vivencia previa, haciéndola chocar con lo eventual, la experiencia de fumar grupalmente. **Aceptas**, fumas, *tociste*, rotaste el cigarro... Ocurre algo en ese momento: entre risas o silencios de introspección se generó una nueva experiencia junto con una nueva sintonía y resonancia humística entre tu y los cabros: **La comunidad se siente agradable.**
 
-Luego, te encuentras nuevamente con ese grupito, se repite lo cotidiano y el vínculo empieza a centrarse bajo el marco del pucho, porro, cigarro, etc.
+- Tócele, amigo tócele!! 🚬🗿 \* risas y sinergia grupal\*
 
-> ¿Realmente me hace bien juntarme con ellos bajo estas sustancias?
+Llega la segunda ronda del pucho, no estás convencido. ¿Y si digo que no?... Antes de verbalizarlo, *las tensiones se sienten grupalmente*, tu cuerpo lo dice, miedos al qué dirán, dudas de tu valía y otros valores conversan, se disputan y chocan entre si. Elijes decir:
 
--Sí, pero con límites. CHAN! aparece por primera vez la palabra **LÍMITE** dentro del lenguaje del individuo.
+- Gracias, paso por ahora... \* silencio e incomodidad grupal de 2 segundos.\*
 
-Gran parte de nuestros límites se construyen mucho antes del lenguaje verbal. Habitan en el cuerpo, en las pulsiones, en la atención, en las distinciones que hacemos sobre lo que queremos conservar y aquello que dejamos pasar.
+El grupo reacciona (veremos la continuación del relato con su análisis en un *futuro post*), generando tensiones y/o distensiones en cadenas. Si reducimos el conjunto de reacciones ocurridas por una decisión o información dada, podemos decir que **decidir es el resultado de haber observado para luego distinguir**, es un acto autorreferenciado e influenciado bajo un contexto ambiental, personal y social donde nuestra distinción o postura preserva o aumenta el bienestar del momento.
+
+Suena heavy, deeenso, pero es literalmente lo que pasó arriba y pasa en la realidad.  Autores como Maturana & Varela, Luhmann y Spencer-Brown escribieron desde sus ámbitos que: **observar implica distinguir**. No observamos el mundo completo; marcamos diferencias dentro de él.
+
+Cada uno llega ahí desde un lugar distinto. Spencer-Brown lo plantea como axioma lógico-matemático: antes de calcular cualquier cosa, hay que distinguir algo. Luhmann lo traslada a lo social: los sistemas —una conversación, una sociedad— se reproducen observándose a sí mismos a través de distinciones comunicativas. Maturana y Varela lo anclan en lo biológico: distinguir es lo que hace un organismo vivo al acoplarse con su entorno, antes de cualquier lógica o lenguaje formal. Tres caminos —matemática, sociología, biología— que llegan al mismo punto de partida.
 
 
-Checa por favor esta siguiente frase:
+Entonces, antes de decir NO, solemos experimentar una **tensión** entre distintas observaciones sobre aquello que queremos preservar. Decidir que NO es la conversación unificadora de los lenguajes del cuerpo, la experiencia, la ética, la emoción y la observación que preserva o aumenta el bienestar. Mientras se decide, existe una distinción adquirida que revela una forma de observar el mundo que consideramos valiosa.
 
-> Todo límite *observacional* implica una distinción
+Cerrando las ideas, ¿qué hace que digamos no? ¿Qué lenguajes delimitan nuestra experiencia?
 
-Dicho de otro modo: para poner un límite primero debemos diferenciar algo.
-
-- Lo que me hace bien de lo que me hace mal.
-
-- Lo que quiero conservar de lo que estoy dispuesto a sacrificar.
-
-- Lo que fortalece un vínculo de aquello que lo deteriora.
-
-> Oye, oye, yapo, relájate con el cañito... 
-
-Autores como Maturana & Varela, Luhmann y Spencer-Brown coinciden en una idea fundamental: observar implica distinguir. No observamos el mundo completo; marcamos diferencias dentro de él.
-
-Cada uno llega ahí desde un lugar distinto. Spencer-Brown lo plantea como axioma lógico-matemático: antes de calcular cualquier cosa, hay que distinguir algo (es el punto de partida de su sistema formal). Luhmann lo traslada a lo social: los sistemas —una conversación, una sociedad— se reproducen observándose a sí mismos a través de distinciones comunicativas. Maturana y Varela lo anclan en lo biológico: distinguir es lo que hace un organismo vivo al acoplarse con su entorno, antes de cualquier lógica o lenguaje formal. Tres caminos —matemática, sociología, biología— que llegan al mismo punto de partida.
-
-Checa estas frases:
-- **Todo acto de conocer trae un mundo a la mano** [1] 
-- **Observar es operar con una distinción** [2].
-- **Toda observación comienza cuando se marca una diferencia, una distinción** [3]
-
- El punto de partida de observar es ponerse en un lado de la experiencia que distinga polos de eso (me hace bien/mal, conservadurismo/experimentación, etc) para recién comenzar a observar una situación y evaluar si me conviene.
-
-Entonces, antes de decir NO, solemos experimentar una **tensión** entre distintas observaciones sobre aquello que queremos preservar. Decidir que NO es la unión de los lenguajes del cuerpo, la experiencia, la ética, la emoción y la observación que preserva o aumenta lo valioso del vivir. Antes del no existe una distinción adquirida que revela una forma de observar el mundo que consideramos valiosa.
-
-Cerrando la imagen inicial, ¿qué hace que digamos no? ¿Qué lenguajes delimitan nuestra experiencia?
+| Lenguaje / Voz interna       | Qué pregunta o dice                                  | Ejemplo en la escena del cigarro                                  | Tensión que genera |
+|-------------------------------|-------------------------------------------------------|---------------------------------------------------------------------|----------------------|
+| **Cuerpo**                    | ¿Esto es seguro? ¿Cómo se siente físicamente?         | Pulmones vírgenes, tensión muscular, el impulso de toser antes de inhalar | Activación física inmediata: alerta vs. curiosidad |
+| **Memoria / vivencia previa**  | ¿Ya pasé por algo así? ¿Cómo me fue la última vez?    | Experiencias previas con sustancias, con grupos, con presión social | Lo conocido vs. lo nuevo: repetir un patrón o romperlo |
+| **Valores / criterios**       | ¿Esto calza con quién quiero ser?                     | Convicciones sobre salud, sobriedad, límites personales             | Coherencia interna vs. flexibilidad ante el momento |
+| **Miedo social**               | ¿Qué van a pensar si digo que no?                     | "Miedos al qué dirán", riesgo de quedar fuera del grupo              | Aprobación grupal vs. autonomía |
+| **Valía personal**             | ¿Merezco que me respeten si pongo un límite?          | Dudas sobre si decir que no te hace "menos" frente al grupo          | Autoestima vs. necesidad de validación externa |
+| **Salud / autocuidado**        | ¿Esto me hace bien a mediano o largo plazo?            | Evaluación física y mental de las consecuencias de fumar              | Placer/vínculo inmediato vs. consecuencia futura |
+| **Pertenencia / vínculo**      | ¿Esta decisión fortalece o debilita el lazo con ellos? | "La comunidad se siente agradable" vs. el riesgo de romper sintonía  | Cercanía grupal vs. integridad personal |
+| **Observación de contexto**    | ¿Qué está pasando aquí, ahora, entre todos?            | Leer el ambiente grupal: ¿es broma, presión real, juego?              | Certeza vs. ambigüedad de lo que realmente se está jugando |
 
 > Comunicar un NO parte de distintos lenguajes que se unifican en una decisión y una postura: preservar o aumentar el bienestar personal bajo el vínculo personal o relacional.
 
 
-En la parte dos de esta serie de posts: *El lenguaje de los límites* veremos cómo observamos nuestra propia forma de distinguir. **¿Quién observa al observador?**
+Para el próximo post de *El lenguaje de los límites* veremos cómo observamos nuestra propia forma de distinguir y entender cómo podemos decir conscientemente mejor. **¿Quién observa al observador?**
 
 Gracias por leer.
 
+---
+
 Bibliografía:
 
-* [1] *Árbol del Conocimiento* de H. Maturana y F. Varela.
-* [2] *Teoría de sistemas* de Niklas Luhmann
-* [3] *Laws of Form* - George Spencer-Brown
+* *Árbol del Conocimiento* de H. Maturana y F. Varela.
+* *Teoría de sistemas* de Niklas Luhmann
+* *Laws of Form* - George Spencer-Brown
+
+
+
