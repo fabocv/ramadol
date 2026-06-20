@@ -15,7 +15,7 @@ Te pondré en este escenario: La típica del cigarro, alguien de un grupo de ami
 
 > ¿Acepto probar esto / acepto esta nueva experiencia? 
 
-Experimentas tensión evidente, hay una comunicación interna con tus marcos inculcados, tus valores, tu ambiente previo, criterios, salud, miedos, tu vivencia previa, haciéndola chocar con lo eventual, la experiencia de fumar grupalmente. **Aceptas**, fumas, *tociste*, rotaste el cigarro... Ocurre algo en ese momento: entre risas o silencios de introspección se generó una nueva experiencia junto con una nueva sintonía y resonancia humística entre tu y los cabros: **La comunidad se siente agradable.**
+Experimentas tensión evidente, hay una comunicación interna con tus marcos inculcados, tus valores, tu ambiente previo, criterios, salud, miedos, tu vivencia previa, haciéndola chocar con lo eventual, la experiencia de fumar grupalmente. **Aceptas**, fumas, *tociste*, rotaste el cigarro... Ocurre algo en ese momento: entre risas o silencios de introspección se generó una nueva experiencia junto con una nueva sintonía y distensiones en cadenas entre tu y los cabros: **La comunidad se siente agradable.**
 
 - Tócele, amigo tócele!! 🚬🗿 \* risas y sinergia grupal\*
 
@@ -23,14 +23,14 @@ Llega la segunda ronda del pucho, no estás convencido. ¿Y si digo que no?... A
 
 - Gracias, paso por ahora... \* silencio e incomodidad grupal de 2 segundos.\*
 
-El grupo reacciona (veremos la continuación del relato con su análisis en un *futuro post*), generando tensiones y/o distensiones en cadenas. Si reducimos el conjunto de reacciones ocurridas por una decisión o información dada, podemos decir que **decidir es el resultado de haber observado para luego distinguir.**
+El grupo reacciona (veremos la continuación del relato con su análisis en un *futuro post*), generando tensiones y/o distensiones en cadenas. Si reducimos el conjunto de reacciones ocurridas por una decisión o información dada, podemos decir que **observar implica distinguir y decidir supone operar sobre esas distinciones.**
 
 Suena heavy, deeenso, pero es literalmente lo que pasó arriba y pasa en la realidad.  Autores como Maturana & Varela[1], Luhmann[2] y Spencer-Brown [3] escribieron desde sus ámbitos que: **observar implica distinguir**. No observamos el mundo completo; marcamos diferencias dentro de él.
 
-Cada uno llega ahí desde un lugar distinto. Spencer-Brown lo plantea como axioma lógico-matemático: antes de calcular cualquier cosa, hay que distinguir algo. Luhmann lo traslada a lo social: los sistemas —una conversación, una sociedad— se reproducen observándose a sí mismos a través de distinciones comunicativas. Maturana y Varela lo anclan en lo biológico: distinguir es lo que hace un organismo vivo al acoplarse con su entorno, antes de cualquier lógica o lenguaje formal. Tres caminos —matemática, sociología, biología— que llegan al mismo punto de partida.
+Nombrar a estos autores tiene el propósito de trazar un panorama general de sus observaciones bajo sus especialidades. En el caso de Spencer-Brown plantea que antes de calcular cualquier cosa, hay que distinguir algo. Luhmann lo traslada a lo social: los sistemas —una conversación, una sociedad— se reproducen observándose a sí mismos a través de distinciones comunicativas. Maturana y Varela lo anclan en lo biológico: distinguir es lo que hace un organismo vivo al acoplarse con su entorno, antes de cualquier lógica o lenguaje formal. Tres caminos —matemática, sociología, biología—, tres visiones distintas que otorgan un papel central a la distinción.
 
 
-Entonces, antes de decir NO, solemos experimentar una **tensión** entre distintas observaciones sobre aquello que queremos preservar. Decidir que NO es la conversación unificadora de los lenguajes del cuerpo, la experiencia, la ética, la emoción y la observación que preserva o aumenta el bienestar. Mientras se decide, existe una distinción adquirida que revela una forma de observar el mundo que consideramos valiosa.
+Entonces, antes de decir NO, solemos experimentar una **tensión** entre distintas observaciones sobre aquello que queremos preservar. Decidir que NO es la conversación de los lenguajes del cuerpo, la experiencia, la ética, la emoción y la observación que busca preservar aquello que la persona considera valioso o digno de protección. Mientras se decide, existe una distinción adquirida que revela una forma de observar el mundo que consideramos valiosa.
 
 Cerrando las ideas, ¿qué hace que digamos no? ¿Qué lenguajes delimitan nuestra experiencia?
 

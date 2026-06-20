@@ -1,11 +1,11 @@
 ---
-title: '¿Quién observa a quién? El lenguaje de los límites parte II'
-description: 'Análisis breve sobre cómo se originan los limites, desiciones y observaciones, parte uno.'
-pubDate: 'Jun 18 2026'
+title: '¿Quién observa al observador? El lenguaje de los límites parte II'
+description: 'Análisis breve sobre cómo se originan los límites, decisiones y observaciones, parte uno.'
+pubDate: 'Jun 20 2026'
 heroImage: '../../assets/limite1.webp'
 ---
 
-# Lenguaje de los límites pt ii: ¿Quién observa a quién?
+# Lenguaje de los límites pt ii: ¿Quién observa al observador?
 
 El observador ha sido observado por sí mismo, en una fría noche de Junio. -\**pshik*, procede a encender un cigarro.\*
 
@@ -14,7 +14,7 @@ El observador ha sido observado por sí mismo, en una fría noche de Junio. -\**
 
 En la parte anterior eras joven, te ofrecieron fumar y terminaste aceptando pese a ciertas resistencias internas. Descubrimos que detrás de decir "no" solemos conversar con nuestras costumbres, experiencias y límites aprendidos.
 
-> ¿Quién observa a quién?
+> ¿Quién observa al observador?
 
 Comenzamos la segunda parte con la
 
