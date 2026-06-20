@@ -5,10 +5,6 @@ pubDate: 'Jun 18 2026'
 heroImage: '../../assets/limite1.webp'
 ---
 
-# ¿Qué hay antes de un no? El lenguaje de los límites parte I
-
-Los humos conectan el mundo terrenal con el celestial, como también puede conectar unos con otros. ~Fabo
-
 *revisado el 20 de Junio de 2026.*
 
 por *Fabo*
@@ -27,9 +23,9 @@ Llega la segunda ronda del pucho, no estás convencido. ¿Y si digo que no?... A
 
 - Gracias, paso por ahora... \* silencio e incomodidad grupal de 2 segundos.\*
 
-El grupo reacciona (veremos la continuación del relato con su análisis en un *futuro post*), generando tensiones y/o distensiones en cadenas. Si reducimos el conjunto de reacciones ocurridas por una decisión o información dada, podemos decir que **decidir es el resultado de haber observado para luego distinguir**, es un acto autorreferenciado e influenciado bajo un contexto ambiental, personal y social donde nuestra distinción o postura preserva o aumenta el bienestar del momento.
+El grupo reacciona (veremos la continuación del relato con su análisis en un *futuro post*), generando tensiones y/o distensiones en cadenas. Si reducimos el conjunto de reacciones ocurridas por una decisión o información dada, podemos decir que **decidir es el resultado de haber observado para luego distinguir.**
 
-Suena heavy, deeenso, pero es literalmente lo que pasó arriba y pasa en la realidad.  Autores como Maturana & Varela, Luhmann y Spencer-Brown escribieron desde sus ámbitos que: **observar implica distinguir**. No observamos el mundo completo; marcamos diferencias dentro de él.
+Suena heavy, deeenso, pero es literalmente lo que pasó arriba y pasa en la realidad.  Autores como Maturana & Varela[1], Luhmann[2] y Spencer-Brown [3] escribieron desde sus ámbitos que: **observar implica distinguir**. No observamos el mundo completo; marcamos diferencias dentro de él.
 
 Cada uno llega ahí desde un lugar distinto. Spencer-Brown lo plantea como axioma lógico-matemático: antes de calcular cualquier cosa, hay que distinguir algo. Luhmann lo traslada a lo social: los sistemas —una conversación, una sociedad— se reproducen observándose a sí mismos a través de distinciones comunicativas. Maturana y Varela lo anclan en lo biológico: distinguir es lo que hace un organismo vivo al acoplarse con su entorno, antes de cualquier lógica o lenguaje formal. Tres caminos —matemática, sociología, biología— que llegan al mismo punto de partida.
 
@@ -52,7 +48,7 @@ Cerrando las ideas, ¿qué hace que digamos no? ¿Qué lenguajes delimitan nuest
 > Comunicar un NO parte de distintos lenguajes que se unifican en una decisión y una postura: preservar o aumentar el bienestar personal bajo el vínculo personal o relacional.
 
 
-Para el próximo post de *El lenguaje de los límites* veremos cómo observamos nuestra propia forma de distinguir y entender cómo podemos decir conscientemente mejor. **¿Quién observa al observador?**
+Para el próximo post de *El lenguaje de los límites* veremos cómo observamos nuestra propia forma de distinguir y entender cómo podemos decidir conscientemente mejor. **¿Quién observa al observador?**
 
 Gracias por leer.
 
@@ -60,9 +56,9 @@ Gracias por leer.
 
 Bibliografía:
 
-* *Árbol del Conocimiento* de H. Maturana y F. Varela.
-* *Teoría de sistemas* de Niklas Luhmann
-* *Laws of Form* - George Spencer-Brown
+* [1] *Árbol del Conocimiento* de H. Maturana y F. Varela.
+* [2] *Teoría de sistemas* de Niklas Luhmann
+* [3] *Laws of Form* - George Spencer-Brown
 
 
 
