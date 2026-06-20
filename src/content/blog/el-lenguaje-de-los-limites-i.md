@@ -1,5 +1,5 @@
 ---
-title: '¿Qué hay antes de un no? El lenguaje de los límites parte I'
+title: '[update] ¿Qué hay antes de un no? El lenguaje de los límites parte I'
 description: 'Análisis breve sobre cómo se originan los límites, decisiones y observaciones, parte uno.'
 pubDate: 'Jun 18 2026'
 heroImage: '../../assets/limite1.webp'
