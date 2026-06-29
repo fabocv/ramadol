@@ -31,7 +31,7 @@ El antifaz genera una imágen, una proyección, autoexigencia y autocastigo sile
 
 - "Preferimos usar algo que ya no nos queda bien, con el fin de mantenerse a salvos, ocultos, sin ganas de trabajar en eso que duele." \~ Fabo
 
-Hay teorías sobre las mascaras ligadas a temas de la infancia, según Lisa Bourbeau describe cómo esas heridas se instalan en el cuerpo, los pensamientos y las decisiones enraizadas profundamente en nuestros pensamientos, costumbres, en nuestras formas de ver el mundo, el cómo pensamos y cómo decidimos (Ver Tabla 1). La calidad de entender los contextos está relacionada con cuán sanas y maduradas están dichas heridas; en caso contrario, las máscaras nos fuerzan a mantener coherencia entre el pensar y actuar, exigiendo una mayor energía de optimización para no colapsar tanto la máscara como la integridad social del individuo.
+Hay teorías sobre las máscaras ligadas a temas de la infancia, según Lisa Bourbeau describe cómo esas heridas se instalan en el cuerpo, los pensamientos y las decisiones (Ver Tabla 1). Aunque su mirada de ver las máscaras pareciera ser rígida, podemos tener partes de varias máscaras, con el fin de aumentar la calidad de entendimiento de los contextos y 'forzar' a mantener una coherencia entre el pensar y actuar, exigiendo una mayor energía de optimización vivencial para usar la máscara como método amortiguador del dolor y sobrevivencia social del individuo.
 
 
 | Herida      | Experiencia Asociada                                              | Manifestaciones frecuentes                                                                 |
@@ -62,7 +62,7 @@ Hay teorías sobre las mascaras ligadas a temas de la infancia, según Lisa Bour
 
 > Todo lo que se dice, lo dice un observador - Von Foerster
 
-Si observamos esta escena desde el enfoque cibernético, acá vemos como el observador pasa de observar la relación/ vinculo social, analizando lo externo y lo que le llega para luego reconocerse a si mismo como un sistema individual que se observa junto con otros sistemas (persona, pasado, sistemas familiares, etc.). Finalmente, el observador se explora como sistema mismo (él) con el fin de reconocer las razones de por qué se perturba bajo estos contextos para entender desde dónde reacciona y decidir si quiere seguir haciéndolo. 
+Si observamos esta escena desde el enfoque cibernético, acá vemos como el observador pasa de observar la relación/ vinculo social, analizando lo externo y lo que le llega para luego reconocerse a si mismo como un sistema individual que se observa junto con otros sistemas (persona, pasado, sistemas familiares, etc.). Finalmente, el observador se explora como sistema mismo (él) con el fin de reconocer las razones de por qué se perturba bajo estos contextos para entender desde dónde reacciona y decidir si quiere continuar con ese nuevo relato / nueva experiencia. 
 
 ### IV. El duelo que contiene la careta
 
