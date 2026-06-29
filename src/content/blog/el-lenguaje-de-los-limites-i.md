@@ -1,7 +1,7 @@
 ---
 title: '¿Qué hay antes de un no? El lenguaje de los límites parte I [revisado]'
 description: 'Análisis breve sobre cómo se originan los límites, decisiones y observaciones, parte uno.'
-pubDate: 'Jun 18 2026'
+pubDate: 'Jun 20 2026'
 heroImage: '../../assets/limite1.webp'
 ---
 
@@ -48,7 +48,7 @@ Cerrando las ideas, ¿qué hace que digamos no? ¿Qué lenguajes delimitan nuest
 > Comunicar un NO parte de distintos lenguajes que se unifican en una decisión y una postura: preservar o aumentar el bienestar personal bajo el vínculo personal o relacional.
 
 
-Para el próximo post de *El lenguaje de los límites* veremos cómo observamos nuestra propia forma de distinguir y entender cómo podemos decidir conscientemente mejor bajo el concepto de antifaces de supervivencia construidos. [**Antifaces de la realidad: ¿Quién observa al observador?**](https://fabocv.github.io/ramadol/blog/el-lenguaje-de-los-limites-ii/)
+Para el próximo post de *El lenguaje de los límites* veremos cómo observamos nuestra propia forma de distinguir y entender cómo podemos decidir conscientemente mejor bajo el concepto de antifaces de supervivencia construidos. [**Antifaces de la realidad: ¿Quién observa al observador?**](https://fabocv.github.io/ramadol/blog/el-lenguaje-de-limites-ii/)
 
 Gracias por leer.
 
