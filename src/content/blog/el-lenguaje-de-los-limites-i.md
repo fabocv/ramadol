@@ -48,7 +48,7 @@ Cerrando las ideas, ¿qué hace que digamos no? ¿Qué lenguajes delimitan nuest
 > Comunicar un NO parte de distintos lenguajes que se unifican en una decisión y una postura: preservar o aumentar el bienestar personal bajo el vínculo personal o relacional.
 
 
-Para el próximo post de *El lenguaje de los límites* veremos cómo observamos nuestra propia forma de distinguir y entender cómo podemos decidir conscientemente mejor. **¿Quién observa al observador?**
+Para el próximo post de *El lenguaje de los límites* veremos cómo observamos nuestra propia forma de distinguir y entender cómo podemos decidir conscientemente mejor. [**¿Quién observa al observador?**](https://fabocv.github.io/ramadol/blog/el-lenguaje-de-los-limites-ii/)
 
 Gracias por leer.
 
