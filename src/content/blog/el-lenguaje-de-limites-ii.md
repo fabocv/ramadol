@@ -31,7 +31,7 @@ El antifaz genera una imágen, una proyección, autoexigencia y autocastigo sile
 
 - "Preferimos usar algo que ya no nos queda bien, con el fin de mantenerse a salvos, ocultos, sin ganas de trabajar en eso que duele." \~ Fabo
 
-Hay teorías sobre las mascaras ligadas a temas de la infancia, según Lisa Bourbeau  describe y agrupa miedos  y traumas en forma de heridas enraizadas profundamente en nuestros pensamientos, costumbres, en nuestras formas de ver el mundo, el cómo pensamos y cómo decidimos (Ver Tabla 1). La calidad de entender los contextos y sus distinciones está relacionada con cuan sanas y maduradas están dichas heridas; en caso contrario, mantener coherencia entre el pensar y actuar exige una mayor energía de optimización para no colapsar tanto la máscara como la integridad social del individuo.
+Hay teorías sobre las mascaras ligadas a temas de la infancia, según Lisa Bourbeau  describe experiencias y manifestaciones relacionadas a heridas enraizadas profundamente en nuestros pensamientos, costumbres, en nuestras formas de ver el mundo, el cómo pensamos y cómo decidimos (Ver Tabla 1). La calidad de entender los contextos está relacionada con cuán sanas y maduradas están dichas heridas; en caso contrario, las máscaras nos fuerzan a mantener coherencia entre el pensar y actuar, exigiendo una mayor energía de optimización para no colapsar tanto la máscara como la integridad social del individuo (Tabla 2).
 
 
 | Herida      | Experiencia Asociada                                              | Manifestaciones frecuentes                                                                 |
@@ -43,6 +43,17 @@ Hay teorías sobre las mascaras ligadas a temas de la infancia, según Lisa Bour
 | Injusticia  | Crecer en un ambiente rígido y con poca expresión emocional.           | Rigidez, perfeccionismo, dificultad para mostrar vulnerabilidad.                            |
 
 **Tabla 1**: Heridas de la infancia - compilado de *Las cinco heridas que impiden ser uno mismo* de Lise Bourbeau
+
+
+| Herida      | Máscara o mecanismo de defensa |
+| ----------- | ------------------------------ |
+| Rechazo     | Huidizo                        |
+| Abandono    | Dependiente                    |
+| Humillación | Masoquista                     |
+| Traición    | Controlador                    |
+| Injusticia  | Rígido                         |
+
+**Tabla 2:** Herida y su máscara según Bourbeau
 
 
 ### III. El momento del reconocimiento y vista cibernética.
@@ -65,7 +76,7 @@ Si observamos esta escena desde el enfoque cibernético, acá vemos como el obse
 
 ### IV. El duelo que contiene la careta
 
-Reconocer que haz vivido desde una careta por miedos, duele. Es un vivir un duelo de alguien que haz sido sin ser tu, es muy revelador pero duro. Acá, los miedos de los padres, familiares, traumas y dolores viejos que incluso ni recuerdas te dejaron huellas dolorosas. Repetiste una y otra vez respuestas, formas de responder, formas de evadir, de no sentir. La idea no es destruir la máscara ni desecharla, es entender el dolor, rearmar con distintos relatos tus propias construcciones mentales, es reeducar el comportamiento repetitivo tóxico, limitante, miedoso.
+Reconocer que haz vivido desde una careta por miedos, duele. Es vivir un duelo de alguien que haz sido sin ser tu, es muy revelador ser conscientes de ello. Acá, los miedos de los padres, familiares, traumas y dolores viejos que incluso ni recuerdas te dejaron huellas dolorosas. Repetiste una y otra vez respuestas, formas de responder, formas de evadir, de no sentir. La idea no es destruir la máscara ni desecharla, es entender el dolor, rearmar con distintos relatos tus propias construcciones mentales, es reeducar el comportamiento repetitivo tóxico, limitante, miedoso.
 
 
 ### V. Habitar la vulnerabilidad
