@@ -7,7 +7,7 @@ heroImage: '../../assets/limite1.webp'
 
 # Lenguaje de los límites pt ii: ¿Quién observa al observador?
 
-El observador ha sido observado por sí mismo, en una fría noche de Junio. -\**pshik*, procede a encender un cigarro.\*
+El observador ha sido observado **por sí mismo**, en una fría noche de Junio. -\**pshik*, procede a encender un cigarro, en el silencio de su melancolía.\*
 
 ---
 
@@ -16,9 +16,25 @@ En la parte anterior eras joven, te ofrecieron fumar y terminaste aceptando pese
 
 > ¿Quién observa al observador?
 
-Comenzamos la segunda parte con la
+Comenzamos la segunda parte perfumados a humo de cigarros en una noche fría de Junio, me permitiré tomar un tono más personal con pizcas filosóficas. Es casi trascendente e incluso paradógico preguntarse **¿quién observa mi observación?** Te conduciré a un post digerible y sin caer en locura... ~pero podemos rozarla si me permites muajajaja~ Vámonos juntos en este viaje meta-👁️bservacional.
 
 Revisa la parte uno [¿Qué hay antes de un no? El lenguaje de los límites pt I](...)
+
+Alguna vez en nuestras humanas vidas hemos oido variaciones de esto: 
+
+- Dios está mirando todo lo que haces
+- El de arriba mira
+- Mi [familiar fallecido] me está mirando/ está conmigo
+
+Y podemos darle una y mil interpretaciones. Pero vamos a gravitar entre fuerzas de la cognición, del poder, de nuestra autonomía y otros humos.
+
+
+
+
+
+
+
+
 
 Recordemos a Maturana:
 
