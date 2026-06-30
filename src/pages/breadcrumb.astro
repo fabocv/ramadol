@@ -1,0 +1,63 @@
+---
+
+---
+
+<nav aria-label="Breadcrumb" class="breadcrumb-nav">
+  <ol class="breadcrumb-list">
+    <li class="breadcrumb-item">
+      <a href="/">Inicio</a>
+    </li>
+    <li class="breadcrumb-item active" aria-current="page">
+      <span>Blog</span>
+    </li>
+  </ol>
+</nav>
+
+<style>
+  .breadcrumb-nav {
+    padding: 1rem 0;
+    margin-bottom: 2rem;
+  }
+
+  .breadcrumb-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    gap: 0.5rem;
+    font-size: 0.9rem;
+    font-family: system-ui, -apple-system, sans-serif;
+  }
+
+  .breadcrumb-item {
+    display: flex;
+    align-items: center;
+    color: rgb(var(--gray, 100, 116, 139));
+  }
+
+  /* El separador entre las páginas */
+  .breadcrumb-item:not(:last-child)::after {
+    content: "/";
+    margin-left: 0.5rem;
+    color: rgb(var(--gray, 200, 200, 200));
+    font-weight: 300;
+  }
+
+  .breadcrumb-item a {
+    color: rgb(var(--black, 30, 41, 59));
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+
+  .breadcrumb-item a:hover {
+    color: rgb(var(--accent, 124, 58, 237));
+    text-decoration: underline;
+  }
+
+  /* Estilo para la página actual (activa) */
+  .breadcrumb-item.active {
+    color: rgb(var(--gray, 100, 116, 139));
+    font-weight: 500;
+  }
+</style>

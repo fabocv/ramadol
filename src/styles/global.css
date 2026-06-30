@@ -2,28 +2,30 @@
   The CSS in this style tag is based off of Bear Blog's default CSS.
   https://github.com/HermanMartinus/bearblog/blob/297026a877bc2ab2b3bdfbd6b9f7961c350917dd/templates/styles/blog/default.css
   License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
-
-  Paleta: "musgo nocturno" — carbón cálido + pergamino + sage/arcilla.
+  Paleta: "musgo nocturno" — carbón profundo + pergamino + verde farmacéutico.
 */
 :root {
-  --accent: #8fae7c;        /* sage / musgo — acento principal: links, blockquote */
-  --accent-dark: #c9886a;   /* arcilla cálida — hover, detalles secundarios */
-  --bg: 17, 16, 14;         /* carbón cálido, fondo base */
-  --bg-elevated: 26, 24, 21;/* superficie ligeramente elevada */
-  --black: 233, 225, 209;   /* pergamino claro — headings */
-  --gray: 130, 140, 120;    /* sage apagado — para sombras */
-  --gray-light: 38, 35, 30; /* superficie code/hr */
-  --gray-dark: 197, 191, 176; /* pergamino apagado — texto de cuerpo */
+  --accent: #00B37E;        /* verde farmacéutico — acento principal: links, blockquote */
+  --accent-dark: #00CC8E;   /* verde brillante — hover, detalles secundarios */
+  --accent-muted: #1A3D31;  /* verde oscuro — superficies tintadas, badges */
+  --bg: 13, 13, 13;         /* carbón profundo, fondo base */
+  --bg-elevated: 17, 17, 17;/* superficie ligeramente elevada */
+  --black: 240, 237, 229;   /* pergamino claro — headings */
+  --gray: 60, 60, 55;       /* gris carbón — para sombras */
+  --gray-light: 31, 31, 31; /* superficie code/hr */
+  --gray-dark: 200, 196, 188;/* pergamino apagado — texto de cuerpo */
   --gray-gradient: rgba(var(--bg-elevated), 70%), rgb(var(--bg));
   --box-shadow:
     0 2px 6px rgba(var(--gray), 15%), 0 8px 24px rgba(0, 0, 0, 45%),
     0 16px 32px rgba(0, 0, 0, 45%);
 }
+
 *,
 *::before,
 *::after {
-	box-sizing: border-box;
+  box-sizing: border-box;
 }
+
 body, header {
   font-family: var(--font-atkinson);
   margin: 0;
@@ -39,14 +41,17 @@ body, header {
   font-size: 18px;
   line-height: 1.7;
 }
+
 html {
   background-color: rgb(var(--bg));
 }
+
 main {
   width: min(720px, 100%);
   margin: 0 auto;
   padding: 2rem 1.25rem;
 }
+
 h1,
 h2,
 h3,
@@ -57,6 +62,7 @@ h6 {
   color: rgb(var(--black));
   line-height: 1.2;
 }
+
 h1 {
   font-size: clamp(2.2rem, 7vw, 3.2rem);
 }
@@ -68,29 +74,37 @@ h2 {
 h3 {
   font-size: clamp(1.4rem, 4vw, 1.9rem);
 }
+
 h4 {
   font-size: 1.563em;
 }
+
 h5 {
   font-size: 1.25em;
 }
+
 strong,
 b {
   font-weight: 700;
 }
+
 a {
   color: var(--accent);
   text-decoration-color: rgba(var(--gray), 50%);
 }
+
 a:hover {
   color: var(--accent-dark);
 }
+
 p {
   margin-bottom: 1em;
 }
+
 .prose p {
   margin-bottom: 2em;
 }
+
 textarea {
   width: 100%;
   font-size: 16px;
@@ -98,35 +112,42 @@ textarea {
   color: rgb(var(--gray-dark));
   border: 1px solid rgb(var(--gray-light));
 }
+
 input {
   font-size: 16px;
   background: rgb(var(--bg-elevated));
   color: rgb(var(--gray-dark));
   border: 1px solid rgb(var(--gray-light));
 }
+
 table {
   width: 100%;
 }
+
 img {
   max-width: 100%;
   height: auto;
   border-radius: 8px;
 }
+
 code {
   padding: 2px 5px;
   background-color: rgb(var(--gray-light));
   color: rgb(var(--black));
   border-radius: 2px;
 }
+
 pre {
   padding: 1.5em;
   border-radius: 8px;
   background-color: rgb(var(--bg-elevated));
   box-shadow: var(--box-shadow);
 }
+
 pre > code {
   all: unset;
 }
+
 blockquote {
   border-left: 4px solid var(--accent);
   padding: 0 0 0 20px;
@@ -134,17 +155,21 @@ blockquote {
   font-size: 1.333em;
   color: rgb(var(--gray-dark));
 }
+
 hr {
   border: none;
   border-top: 1px solid rgb(var(--gray-light));
 }
+
 @media (max-width: 720px) {
   body {
     font-size: 16px;
   }
+
   main {
     padding: 1rem;
   }
+
   nav {
     display: flex;
     justify-content: center;
@@ -165,12 +190,8 @@ hr {
   height: 1px;
   width: 1px;
   overflow: hidden;
-  /* IE6, IE7 - a 0 height clip, off to the bottom right of the visible 1px box */
   clip: rect(1px 1px 1px 1px);
-  /* maybe deprecated but we need to support legacy browsers */
   clip: rect(1px, 1px, 1px, 1px);
-  /* modern browsers, clip-path works inwards from each corner */
   clip-path: inset(50%);
-  /* added line to stop words getting smushed together (as they go onto separate lines and some screen readers do not understand line feeds as a space */
   white-space: nowrap;
 }
